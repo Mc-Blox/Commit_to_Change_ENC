@@ -1,0 +1,7 @@
+{
+  "name": "LeadStreak AI",
+  "description": "A high-stakes habit tracker for entrepreneurs that uses AI agentic workflows to generate sales leads and crypto staking to ensure accountability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
