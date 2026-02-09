@@ -4,9 +4,11 @@
 
 # Run and deploy your Leadstreak AI app
 
-This contains everything you need to run your app locally.
+Leadstreak AI is a Lead Generation Tracker app that encourages you to create and complete your outreach tasks by staking some crypto!
 
-View your app in AI Studio: https://ai.studio/apps/drive/17fwr5BaVTdPnrsjg91kSN8fOc84XemxK
+This repo contains everything you need to run your app locally.
+
+View the app in AI Studio: https://ai.studio/apps/drive/17fwr5BaVTdPnrsjg91kSN8fOc84XemxK
 
 ## Run Locally
 
