@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://imgs.search.brave.com/S9sgrieRRorXGMifBPZgxH9qzC1dsEOCr3CTMnLN-Ms/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9nd2cu/aW1naXgubmV0LzYy/NjIxLmpwZz93PTYw/MCZmbT1qcGcmYXV0/bz1mb3JtYXQmcT05/MA" />
 </div>
 
 # Run and deploy your Leadstreak AI app
